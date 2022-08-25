@@ -1,0 +1,1 @@
+export { PrintedComponent as default } from './PrintedComponent';
